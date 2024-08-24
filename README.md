@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist / Biomedical Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.redoxengine.com/wp-content/uploads/2018/02/braingate-neural-interface-system.gif">
 
-- 🔭 I’m currently working on **Data Science Courses**
+- 🔭 I’m currently working on **Data Science Professional Certificate by IBM**
 
 - 🌱 I’m currently learning **SQL**
 
